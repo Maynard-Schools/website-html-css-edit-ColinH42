@@ -1,3 +1,3 @@
 # HTML + CSS Editing Project
 
-Here is where you can explain the project and why you made the changes. 
+For my project I decided to make a halloween theme for Reflex Math. I used the Reflex Math site because it was easier to edit the CSS than other websites that I tried, and it looked nice when it was done. I changed all of the green and whites to orange (#ffa500), black (#111), white (#fff), and dark pine green (#228B22). I think it looks pretty decent, although there was a certain bit of background that I couldn't change the color of, which I believe was because it has a picture on the background and I think that the background is being included in the picture in the code. 
